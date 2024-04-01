@@ -17,5 +17,7 @@ CREATE TABLE band(
 
 
 INSERT INTO band (bandName, creation, genre) VALUES ('Crazy Duo', '2015', 'rock');
-INSERT INTO band (bandName, creation, genre) VALUES ('Luno', '2009', 'classical');
+INSERT INTO band (bandName, creation, genre) VALUES ('Luna', '2009', 'classical');
 INSERT INTO band (bandName, creation, genre) VALUES ('Mysterio', '2019', 'pop');
+
+
